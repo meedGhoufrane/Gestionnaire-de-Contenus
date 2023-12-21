@@ -1,10 +1,10 @@
 <?php
 
 // Application
-define('APP_URL', 'http://localhost/simple-php-mvc-oop/public/');
+define('APP_URL', 'http://localhost/gestionnaire-de-contenus/public/index.php');
 
 // Database
 define('DB_HOST', 'localhost');
 define('DB_USER', 'root');
 define('DB_PASS', '');
-define('DB_NAME', 'oop_mvc');
+define('DB_NAME', 'stadiumstream');
