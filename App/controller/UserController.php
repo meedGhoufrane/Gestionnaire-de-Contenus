@@ -2,7 +2,9 @@
 
 
 
+// use App\Models\UserModel;
 use App\Models\UserModel;
+
 
 class UserController
 {
