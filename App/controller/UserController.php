@@ -9,6 +9,7 @@ use App\Models\UserModel;
 class UserController
 {
     private $userModel;
+    // private $userModel;
 
     public function __construct()
     {
