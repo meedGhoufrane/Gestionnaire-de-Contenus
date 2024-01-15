@@ -1,8 +1,3 @@
-<?php 
-
-require_once '../App/core/App.php';
-require 'autoload.php';
-?>
 
 <!DOCTYPE html>
 <html lang="en">
