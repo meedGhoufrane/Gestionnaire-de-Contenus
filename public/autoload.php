@@ -1,7 +1,6 @@
 <?php 
 
 
-// configuration files 
 require_once '../App/config/config.php';
 // require_once '../App/config/config.php';
 
