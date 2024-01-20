@@ -4,7 +4,7 @@ class App
 {
     protected $controller = "HomeController";
     protected $action = "index";
-    protected $param = [];
+    // protected $param = [];
     
     public function __construct() 
     {
