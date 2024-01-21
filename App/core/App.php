@@ -10,6 +10,7 @@ class App
     {
     
     echo $_SERVER['QUERY_STRING'];
+    // echo $_SERVER['QUERY_STRING'];
 
         
     }
