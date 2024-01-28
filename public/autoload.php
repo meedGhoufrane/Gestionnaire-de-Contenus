@@ -3,7 +3,6 @@
 
 // configuration files 
 require_once '../App/config/config.php';
-// require_once '../App/config/config.php';
 
 // autoload all classes 
 $modules = [ROOT_PATH,APP,CORE,VIEWS,CONTROLLERS,MODELS,CONFIG];
